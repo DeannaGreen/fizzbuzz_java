@@ -14,7 +14,7 @@ public class FizzBuzzConverter {
         }
 
         else {
-            return "1";
+           return String.valueOf(toConvertToFizzBuzz);
         }
     }
 
